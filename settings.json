@@ -21,4 +21,5 @@
     },
     "searches": [{"url": "https://www.vinted.fr/catalog?brand_ids[]=53", "description": "Nike"}],
     "keywords": [{"keyword": "nike"}, {"keyword": "jordan"}, {"keyword": "adidas"}]
+    "vinted_domain": "fr"
 }
