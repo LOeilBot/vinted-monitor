@@ -13,9 +13,12 @@
     "discord_avatar_url": "",
     "discord_webhooks": ["https://discord.com/api/webhooks/1511167049022574672/Sjbd6KIQHOPk3Z0sYZkDw9F3UHxirM3w3j9aqD3T7fqdzETxNiEsc2qvSJeI8UFK8hXK"],
     "headers": {
-        "accept": "text/html",
-        "accept-language": "fr-FR,fr;q=0.9",
-        "user-agent": "Mozilla/5.0"
+        "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+"accept-language": "fr-FR,fr;q=0.9,en;q=0.8",
+"accept-encoding": "gzip, deflate, br",
+"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+"cache-control": "no-cache",
+"pragma": "no-cache"
     },
     "searches": [{"url": "https://www.vinted.fr/catalog?brand_ids[]=53", "description": "Nike"}],
     "keywords": [{"keyword": "nike"}, {"keyword": "jordan"}, {"keyword": "adidas"}]
