@@ -18,5 +18,5 @@
         "user-agent": "Mozilla/5.0"
     },
     "searches": [{"url": "https://www.vinted.fr/catalog?brand_ids[]=53", "description": "Nike"}],
-    "keywords": ["nike", "jordan", "adidas"]
+    "keywords": [{"keyword": "nike"}, {"keyword": "jordan"}, {"keyword": "adidas"}]
 }
