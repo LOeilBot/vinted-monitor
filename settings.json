@@ -1,0 +1,17 @@
+{
+    "sleep": 0.1,
+    "timeout": 15,
+    "per_page": 96,
+    "warmup_cycles": 8,
+    "confirm_seen_count": 2,
+    "status_every": 5,
+    "retries_total": 2,
+    "backoff_factor": 0.5,
+    "log_file": "vinted_monitor.log",
+    "log_level": "INFO",
+    "discord_username": "L'Oeil Bot",
+    "discord_avatar_url": "",
+    "discord_webhooks": [
+        "https://discord.com/api/webhooks/1511167049022574672/Sjbd6KIQHOPk3Z0sYZkDw9F3UHxirM3w3j9aqD3T7fqdzETxNiEsc2qvSJeI8UFK8hXK"
+    ]
+}
